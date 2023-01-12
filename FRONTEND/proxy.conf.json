@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "https://deploy-web-yb.onrender.com",
+    "secure": false
+  }
+}
